@@ -3,7 +3,7 @@ FIRESTORE_TABLE_NAME='user_profile'
 FIRESTORE_LIMIT=1000
 FIRESTORE_JSON_TO_CSV_FIELDS='photoUrl,email,displayName,infusionID,firestore_id'
 
-DATABASE_URI=postgres://user:password@ec2-34-203-182-65.compute-1.amazonaws.com:5432/daef6c518dq59p
+DATABASE_URI=postgres://user:password@host.cmo:5432/database_name
 DATABASE_TABLE_NAME='up_users'
 DATABASE_FIELDS_NAMES='photo_url,email,name,infusion_id,firestore_id'
 
