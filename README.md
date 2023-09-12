@@ -3,7 +3,7 @@
 On root directory run:
 ```npm install -g json2csv && yarn install && brew install postgresql@14```
 
-You need to install postgresql for `psql` command line tool.
+> postgresql is needed for `psql` command line tool.
 ## Generate a Firebase private key
 
 1. Log in to your Firebase Console and open your project.
