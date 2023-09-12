@@ -1,7 +1,7 @@
 ## Install dependencies
 
-On root directory run;
-`npm install -g json2csv && yarn install && brew install postgresql@14`
+On root directory run:
+```npm install -g json2csv && yarn install && brew install postgresql@14```
 
 ## Generate a Firebase private key
 
